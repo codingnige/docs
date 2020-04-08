@@ -1,1 +1,0 @@
-# ReadApp Lounge Project Documentation
