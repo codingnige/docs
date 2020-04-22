@@ -1,5 +1,6 @@
 # Testing
 
+ReadApp coverage for all tests is 85% minimum. 
 
 ## Credentials for a Test user of the app
 
