@@ -38,13 +38,13 @@
 
 *As a user when I land in a **Lounge**page:*
 
-1. I should see the **Lounges**label
-2. I should see the **CREATE**button
+1. I should see the **Lounges** label
+2. I should see the **CREATE** button
 3. And I can create a Lounge
 
 *As a user when I have created a Lounge*
 
-1. I should see the **Joined**button
+1. I should see the **Joined** button
 2. And the ratings for my DOB
 3. And should see the Hamburgher icon
 
@@ -52,12 +52,12 @@
 
 1. I should see the full name of the Lounge owner
 2. A description
-3. And a **tick**mark which identifies that a user has joined
+3. And a **tick** mark which identifies that a user has joined
 
 *As a user when I am in a Lounge*
 
 1. I can scroll to mid-way screen view
-2. And I can see **Find More**label
+2. And I can see **Find More** label
 
 *As a user when I am in a Lounge*
 
@@ -68,9 +68,9 @@
 
 *As a user when I am in a Lounge*
 
-1. I can see a **label**for my Lounge
+1. I can see a **label** for my Lounge
 2. I can see a description
-3. I can see a **Join**button
+3. I can see a **Join** button
 4. I can see **Joined**
 5. I can see **counter**
 6. And I can see **profile images**
@@ -85,16 +85,16 @@
 
 1. I can see the **label header**for the **Lounge owner**
 2. And a description
-3. And a **Join**button for invitation
-4. I can see a **Joined**label and a **counter**
+3. And a **Join** button for invitation
+4. I can see a **Joined** label and a **counter**
 5. I can see **profile pictures**
 
 *As a user when I am in a Lounge Detail page*
 
 1. And I scroll to the bottom half of the page
-2. I can see a **Continue Reading**label
+2. I can see a **Continue Reading** label
 3. And can continue to read
-4. I can see the **title**of the book
+4. I can see the **title** of the book
 
 *As a user when I am in a Lounge Detail page*
 
@@ -104,8 +104,8 @@
 *As a user when I am in a Lounge Detail page*
 
 1. I can scroll to the bottom
-2. And I can see **Exclusive Content**label
-3. And I can **Search**the Library
+2. And I can see **Exclusive Content** label
+3. And I can **Search** the Library
 
 **Category**- Home:
 
