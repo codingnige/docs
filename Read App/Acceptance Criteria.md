@@ -36,7 +36,7 @@
 
 **User Stories** 
 
-*As a user when I land in a **Lounge**page:*
+*As a user when I land in a **Lounge** page:*
 
 1. I should see the **Lounges** label
 2. I should see the **CREATE** button
