@@ -55,6 +55,10 @@ The encrypted data will be searchable and can be computed. The result is sent ba
 3. The method of the user's model sends data to the graphql query [https://github.com/ReadAppLounge/ReadAppLoungeMobile/blob/1b5cd05c3f8d35a55b1b52120efbbb0abb06a855/mobile/app/common/UserContext/index.tsx#L70](https://github.com/ReadAppLounge/ReadAppLoungeMobile/blob/1b5cd05c3f8d35a55b1b52120efbbb0abb06a855/mobile/app/common/UserContext/index.tsx#L70)
 4. The graphql query [https://github.com/ReadAppLounge/ReadAppLoungeMobile/blob/1b5cd05c3f8d35a55b1b52120efbbb0abb06a855/mobile/app/common/UserContext/graphql/update-user.graphql#L1](https://github.com/ReadAppLounge/ReadAppLoungeMobile/blob/1b5cd05c3f8d35a55b1b52120efbbb0abb06a855/mobile/app/common/UserContext/graphql/update-user.graphql#L1)
 
+5. Model - DB Structure
+
+https://whimsical.com/NrobsZni4CBtZMAsWdtHBk
+
 ReadApp will be engineered to deal with the following Cyber attacks:
 
 - **Malware** -  Malicious software, including spyware, ransomware, viruses, and worms.
