@@ -12,7 +12,7 @@ NextJS - [https://nextjs.org/docs/getting-started](https://nextjs.org/docs/getti
 
 Kubernetes/Docker - [https://github.com/ReadAppLounge/ReadAppLounge-Kubernetes-Docker](https://github.com/ReadAppLounge/ReadAppLounge-Kubernetes-Docker)
 
-Digital Ocean 
+Digital Ocean (Cloud) - [https://www.digitalocean.com/](https://www.digitalocean.com/)
 
 Query Ingestion Pipeline
 
