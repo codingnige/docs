@@ -1,8 +1,7 @@
 # Testing
 
 
-## Credentials
-# Test user of the app
+## Credentials for a Test user of the app
 
 [test@readlounge.com](mailto:test@readlounge.com)
 
