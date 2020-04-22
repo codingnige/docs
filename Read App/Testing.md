@@ -32,14 +32,6 @@
 - UAT
 - Crowd testing
 
-## Reports
-
-[Dashboard](Testing/Dashboard.md)
-
-[Library](Testing/Library.md)
-
-[Sign in/up, restore password](Testing/Sign%20in%20up%20restore%20password.md)
-
 ## Coverage
 
 ![Testing/test-pyramid-coverage.jpg](Testing/test-pyramid-coverage.jpg)
