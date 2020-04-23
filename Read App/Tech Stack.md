@@ -6,6 +6,8 @@ TypeScript - [https://www.typescriptlang.org/](https://www.typescriptlang.org/)
 
 GraphQL - [https://graphql.org/](https://graphql.org/) | [https://graphql.org/code/](https://graphql.org/code/)
 
+Apollo GraphQL - https://www.apollographql.com/docs/
+
 Hasura -  [https://hasura.io/docs/1.0/graphql/manual/index.html](https://hasura.io/docs/1.0/graphql/manual/index.html)
 
 NextJS - [https://nextjs.org/docs/getting-started](https://nextjs.org/docs/getting-started)
