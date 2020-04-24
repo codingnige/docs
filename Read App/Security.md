@@ -38,6 +38,11 @@ step 3
 
 ![Security/pv-4c.png](Security/pv-4c.png)
 
+
+### Linked Account
+
+![]()
+
 ## Cybersecurity
 
 Both personal data and sensitive personal data harvested by the ReadApp are covered by GDPR. 
