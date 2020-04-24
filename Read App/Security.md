@@ -41,7 +41,7 @@ step 3
 
 ### Linked Account
 
-![]()
+![Linked Account](linked-account.jpg)
 
 ## Cybersecurity
 
