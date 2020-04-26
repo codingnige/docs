@@ -7,3 +7,7 @@
 ## Open and Edit an EPUB File
 
 - [http://www.editepub.com/edit-epub-files/](http://www.editepub.com/edit-epub-files/)
+
+## Calibre
+
+- https://calibre-ebook.com/
