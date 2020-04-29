@@ -1,8 +1,10 @@
 Description of lounge user stories
 ● There are 4 collage boxes when you get into the lounge
+
 ○ Continue reading should be what the user is actively reading in the lounge,
 however if a new user comes to the lounge, It should state “start reading”, if the
 reader clicks on it then it should redirect to the exclusive content
+
 ○ EXclusive content - This is the lounge owner’s materials, not someone else’s
 publication it could house paid and non paid resources
 ○ LIbrary - should be resources that the lounge owner has picked from other
