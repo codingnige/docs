@@ -18,4 +18,12 @@
 
 - [http://www.editepub.com/edit-epub-files/](http://www.editepub.com/edit-epub-files/)
 
+## Content
+
+1. Recipes - https://github.com/ReadAppLounge/pre-flight/tree/master/Recipes%20V1 
+
+2. Comics - https://github.com/ReadAppLounge/pre-flight/tree/master/comics 
+
+3. Faith - https://github.com/ReadAppLounge/pre-flight/tree/master/faith
+
 
