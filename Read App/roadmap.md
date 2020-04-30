@@ -36,11 +36,9 @@ Expectation : The MVP, for  April  will be fully functional and Styled with  the
 
 ```
 
-By the end of  next week we should have everything ready in Group Plans. We also should have the design and styles according to Stano's design mockups.
+We should also have everything ready in Group Plans. We also should have the design and styles according to Stano's design mockups.
 
 Additionally we will fix/implement a few requests and tweaks that will follow from the Segmentation in user testing: like fixed number of stats badges in library dashboard, remove Delete button from friends, optimise the description width, and font settings.
-
-I will also encourage the use of the bug list page to facilitate the registration of bugs with captured shots -   https://www.notion.so/Bugs-390a315a553c475bb7a505154ccb803a
 
 
 ## May
