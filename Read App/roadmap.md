@@ -81,25 +81,9 @@ There will also be provision to extend the scope of the pool of our resources an
 
 ## Backlog
 
-```
+https://github.com/ReadAppLounge/docs/blob/master/Read%20App/backlog.md
 
-1. Linked Account / Multiple user login
 
-2. Parental Verification
-
-3. Safe Filters
-
-4. Searchable Encryption
-
-5. Assistive technologies - Podcasts, Text to Speech, 
-Speech to Text, VIDEO
-
-6. Cloud Migration - Enhance Elasticity and Scalability 
-of the platform
-
-7. IoT 
-
-```
 
 
 ## Risk Register
