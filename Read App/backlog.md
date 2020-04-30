@@ -15,21 +15,26 @@
   
 	6.	Encryption - Homomorphic (Searchable Encryption)
   
-	7.	READER
-  
-	8.	Text to Speech
-  
-	9.	Speech to Text
-	
-	10.      Linked Account / Multiple user login
-	
-	11.      Assistive technologies - Podcasts, Text to Speech, 
-Speech to Text, VIDEO
+	7.	READER enhancement / optimisation
 
-        12.      Cloud Migration - Enhance Elasticity and Scalability 
-of the platform
+	
+	8.      Linked Account / Multiple user login
+	
+	9.      Assistive technologies:
+	  
+	  - Podcasts
+	  
+	  - Text to Speech 
+	  
+	  - Speech to Text
+	  
+	  - VIDEO
+	  
+	  - AUDIO
 
-        13.      IoT 
+       12. Optimising Cloud platform - Elasticity / Scalability / Performance 
+
+       13.  IoT 
 
   ```
 
