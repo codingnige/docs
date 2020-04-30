@@ -32,9 +32,9 @@
 	  
 	  - AUDIO
 
-       12. Optimising Cloud platform - Elasticity / Scalability / Performance 
+       10. Optimising Cloud platform - Elasticity / Scalability / Performance 
 
-       13.  IoT 
+       11.  IoT 
 
   ```
 
