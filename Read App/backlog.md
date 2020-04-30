@@ -1,7 +1,9 @@
-# Backlog
+# Backlog  
+
+
 
 ```
-	1.	News API Architecture
+        1.	News API Architecture
 	
 	2.      iTunes API
   
@@ -19,6 +21,16 @@
   
 	9.	Speech to Text
 	
+	10.      Linked Account / Multiple user login
+	
+	11.      Assistive technologies - Podcasts, Text to Speech, 
+Speech to Text, VIDEO
+
+        12.      Cloud Migration - Enhance Elasticity and Scalability 
+of the platform
+
+        13.      IoT 
+
   ```
 
 ### Lounge
