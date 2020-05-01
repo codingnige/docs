@@ -30,7 +30,13 @@
 [https://projects.invisionapp.com/d/main#/console/18878493/395179154/preview#project_console](https://projects.invisionapp.com/d/main#/console/18878493/395179154/preview#project_console)
 - Lounge -
 
-**Category**- Lounge Landing:
+**Category**
+
+- Lounge:
+
+https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Lounge-User-Stories.md
+
+- Lounge Landing:
 
 **Design**- [https://invis.io/2CWSAF4BDNU](https://invis.io/2CWSAF4BDNU)
 
