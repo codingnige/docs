@@ -72,9 +72,13 @@ I have completed  the architecture of the Parental Verification which is documen
 
 ## June
 
-We will enter into a lean and support role with our external clients on delivery of features, re-factoring and re-design of certain areas of the applications that business will identify in line with our strategic vision. This will minimise our costs and cash flow for active development. 
+i. We will enter into a lean and support role with our external clients on delivery of features, re-factoring and re-design of certain areas of the applications that business will identify in line with our strategic vision. This will minimise our costs and cash flow for active development. 
 
-There will also be provision to extend the scope of the pool of our resources and manpower as will be required by business.
+ii. Just to emphasise ctivities in June won’t be reduced but refocused to active testing of the platform, redirecting our resources to ensure we can onboard our 1st set of users to the BETA version, these are mainly lounge owners and users who have registered an interest to journey with us so we have to make sure the focus group is a success. 
+
+iii. The intensity of the work will be re-channelled to address significant issues raised by our test groups
+
+iv. There will also be provision to extend the scope of the pool of our resources and manpower as will be required by business.
 
 
 ## Backlog
