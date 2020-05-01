@@ -47,17 +47,17 @@ Additionally we will fix/implement a few requests and tweaks that will follow fr
 
 2. Lounge Phase A will be delivered in 10 days when work starts. 
 
-3. The list of lounges. Joined/Find More (All)
+i. The list of lounges. Joined/Find More (All)
 
-4. The details page of a lounge
+ii. The details page of a lounge
 
-5. The styles for collage in the middle of the lounge details page ( Image part of the collage. The rest will be non-functional.) 
+iii. The styles for collage in the middle of the lounge details page ( Image part of the collage. The rest will be non-functional.) 
 
-6. The list of plans on the details page of a lounge
+iv. The list of plans on the details page of a lounge
 
-7. Joining a public lounge (Join-button)
+v. Joining a public lounge (Join-button)
 
-8. Enhance existing Reader Capability for News, Blogs and  Comedy
+3. Enhance existing Reader Capability for News, Blogs and  Comedy
 
 
 ## To be Agreed
