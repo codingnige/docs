@@ -40,6 +40,35 @@ We should also have everything ready in Group Plans. We also should have the des
 
 Additionally we will fix/implement a few requests and tweaks that will follow from the Segmentation in user testing: like fixed number of stats badges in library dashboard, remove Delete button from friends, optimise the description width, and font settings.
 
+### What is delivered - Under Evaluation 02/05/2020
+Sure, here it is.
+
+Huge updates to lounges and group plans:
+
+* Phase A of lounges is complete: 
+
+  * Including images uploads
+  
+  * The logic behind Exclusive Content is update to present the content exclusively owned by the lounge owner
+  
+  
+* Group Plans are there:
+
+  * Activity feed
+  
+  * Books
+  
+  * Add/edit plan books
+  
+  * Private group plans are not included in this update
+  
+  
+* Bug fixes and minor changes:
+
+  * Swipe to delete a friend.
+
+
+
 
 ## May
 
