@@ -1,5 +1,18 @@
 # Content Management
 
+## Converted EPUB files
+
+### Comics
+
+* Act of Valor - https://github.com/ReadAppLounge/pre-flight/blob/master/ReadApp-content/comics/EPUB/comics/1/Act%20of%20Valor/actofvalorsceneone.epub 
+
+* Friendly Advice - https://github.com/ReadAppLounge/pre-flight/blob/master/ReadApp-content/comics/EPUB/comics/1/Friendly%20Advice/friendlyadvice.epub 
+
+* List of Noise Makers - https://github.com/ReadAppLounge/pre-flight/blob/master/ReadApp-content/comics/EPUB/comics/2/List%20of%20Noise%20Makers/listofnoisemakers.epub 
+
+* Sharingan - https://github.com/ReadAppLounge/pre-flight/blob/master/ReadApp-content/comics/EPUB/comics/2/Sharingan/sharingan.epub 
+
+* The Good Samaritan - https://github.com/ReadAppLounge/pre-flight/blob/master/ReadApp-content/comics/EPUB/comics/2/The%20good%20samaritan/thegoodsamaritan.epub
 
 ## Convertio
 
