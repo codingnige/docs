@@ -68,6 +68,64 @@ Huge updates to lounges and group plans:
   * Swipe to delete a friend.
 
 
+## PO Feedback - 03/05/2020
+
+
+
+1. We are yet to have a clean edit for PDF books - the format isnt in the right format
+
+2. We need to incorporate blogs and news in the app (this is still open )
+
+3. We need to think about the remove from my library button, i think with each decision, we should ask the user to confirm, for instance, if a user pays to buy a book, they need to be sure they want to delete it and no refunds are given. 
+
+### Dashboard:
+
+1. Friends - please refer to the wireframes - ignore facebook but you need a search list of friends within the app itself prior to inviting by email or phonebook. 
+
+2. We need to sort the contact list by alphabetical order and an easy search button to find friends from the contact list. we also need a space to enter the email or phone. This feature and its UX are very important as users that recruit friends help to reduce our acquisition costs. so we want to make it really easy to invite their friends 
+
+3. the user name is the displayed name on the app, not the full name, also within full name we should capture first and last name for ID
+
+4. Profile - selecting interest and adding the reading time should be flexible and adapt to daily or weekly schedules (not urgent)
+
+5. Dashboard - should change All time to Full-year (we will use calendar full year)
+
+6. We need to make sure the message in the yellow box - Great job ... that the number matches the reading time in the dashboard itself 
+
+### Reader
+
+1. Reader still needs a bit of work, adjust font size, page numbers, pause (when i pause and leave the book and come back to reading, it doesn't bookmark the page I left at) 
+
+2. once a book is highlighted - this should not be visible to other users ie the yellow highlight itself , however comments made by users in a group should be visible at the end of each chapter but there should be a mark to let group members know a comment has been made (i think this will be captured within group plan). 
+
+3. comment box within the reader (bottom corner) - the typing space is too large and therefore the button to submit is not visible and hides behind the character keys on my phone 
+
+4. the share button at the top should reference read app when sent with a link - it will be nice if when the external user clicks on the link, there is a message  to download the app to view or if already a user then a cue to invite to join the group plan . For now we need a generic message to say i'm reading xxxxxx on ReadApp Lounge, join xxxx lounge 
+
+5. where will the feed for the reviews for a book be entered from? 
+
+### Lounge
+1. the latest addition to lounges joined should be displayed first or alphabetically 
+
+2. we need to add the lounges from our user stories - they take a priority rather than sting / madonna as they help to prep for the BETA test stage 
+
+3. the 4 box collage not well displayed 
+
+4. the background colour within the lounges should be more white than grey 
+
+5. EXclusive content is the lounge owner's content
+
+6. library - other useful materials 
+
+7. when i clicked on the first group plan - dream big talk big , i can see 3 other books showing up? is this correct - a group plan should read one book for now not multiple books. 
+
+8. the 3 buttons on the group plan - the book icon, resume button and %age icon all seem to have the same action 
+
+9. how do i access the activity graphs - i think this was meant to be the book icon on the group plan
+
+10. group plans need to have an invite a friend button and accept / reject requests to join 
+
+11. All books / content read within the lounge should be feeding  into the library/dashboard total redaing time etc 
 
 
 ## May
