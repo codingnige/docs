@@ -1,10 +1,10 @@
 # ReadApp Project Documentation
 
-1. ReadApp User Journey - 
+1. ReadApp User Journey - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/050520-a-ReadApp%20User%20Journey.pptx
 
 2. Acceptance Criteria - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Acceptance%20Criteria.md 
 
-3. Designs 
+3. Designs: 
 
 Wireframe - https://projects.invisionapp.com/share/KAUTE8DY9U2#/screens/394866266
 
