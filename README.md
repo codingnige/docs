@@ -30,4 +30,6 @@
 
 15. Linked Account - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/linked-account.jpg
 
-16. Road Map - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/roadmap.md
+16. Road Map - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/roadmap.md 
+
+17. News API - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/newsapi.md
