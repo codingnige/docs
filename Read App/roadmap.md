@@ -40,32 +40,24 @@ We should also have everything ready in Group Plans. We also should have the des
 
 Additionally we will fix/implement a few requests and tweaks that will follow from the Segmentation in user testing: like fixed number of stats badges in library dashboard, remove Delete button from friends, optimise the description width, and font settings.
 
-### What is delivered - Under Evaluation 02/05/2020
-Sure, here it is.
+## PO feedback 05/05/20
 
-Huge updates to lounges and group plans:
+ ReadApp User Stories - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/050520-a-ReadApp%20User%20Journey.pptx
+ 
+ Lounge Plan Connectivity - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Lounge-User-Stories.md
+ 
+ Wireframes - https://projects.invisionapp.com/share/KAUTE8DY9U2#/screens/395179676
+ 
+ Lounge User Stories - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Lounge-User-Stories.md
+ 
+1. I have put my comments for the lounge and plans. we have a meeting at 5 to go through the feedback I sent on Sunday and explain with more clarity items in my notes.
 
-* Phase A of lounges is complete: 
+2. I simply could not take screenshots as there were a few things but most importantly using the wireframes / style from stano will answer most.
 
-  * Including images uploads
-  
-  * The logic behind Exclusive Content is update to present the content exclusively owned by the lounge owner
-  
-  
-* Group Plans are there:
+3. The plan and lounge are connected and we need to ensure a smooth transition between the two. the key thing that connects both is the ability to pick a resource ie a book / blog etc and then create a group plan. at the moment these plans are manually created but we must use the wireframes to follow how a user can create these plans from the lounge library and add friends etc.
 
-  * Activity feed
-  
-  * Books
-  
-  * Add/edit plan books
-  
-  * Private group plans are not included in this update
-  
-  
-* Bug fixes and minor changes:
+4. We will discuss it in more detail later. It may be a slightly longer meeting as once we have finished with the feedback I would like us to brainstorm on how we incorporate the blogs/news feature and adapt to what we have.
 
-  * Swipe to delete a friend.
 
 
 ## PO Feedback - 03/05/2020
@@ -129,24 +121,32 @@ Huge updates to lounges and group plans:
 
 
 
-## PO feedback 05/05/20
+### What is delivered - Under Evaluation 02/05/2020
+Sure, here it is.
 
- ReadApp User Stories - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/050520-a-ReadApp%20User%20Journey.pptx
- 
- Lounge Plan Connectivity - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Lounge-User-Stories.md
- 
- Wireframes - https://projects.invisionapp.com/share/KAUTE8DY9U2#/screens/395179676
- 
- Lounge User Stories - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Lounge-User-Stories.md
- 
-1. I have put my comments for the lounge and plans. we have a meeting at 5 to go through the feedback I sent on Sunday and explain with more clarity items in my notes.
+Huge updates to lounges and group plans:
 
-2. I simply could not take screenshots as there were a few things but most importantly using the wireframes / style from stano will answer most.
+* Phase A of lounges is complete: 
 
-3. The plan and lounge are connected and we need to ensure a smooth transition between the two. the key thing that connects both is the ability to pick a resource ie a book / blog etc and then create a group plan. at the moment these plans are manually created but we must use the wireframes to follow how a user can create these plans from the lounge library and add friends etc.
+  * Including images uploads
+  
+  * The logic behind Exclusive Content is update to present the content exclusively owned by the lounge owner
+  
+  
+* Group Plans are there:
 
-4. We will discuss it in more detail later. It may be a slightly longer meeting as once we have finished with the feedback I would like us to brainstorm on how we incorporate the blogs/news feature and adapt to what we have.
+  * Activity feed
+  
+  * Books
+  
+  * Add/edit plan books
+  
+  * Private group plans are not included in this update
+  
+  
+* Bug fixes and minor changes:
 
+  * Swipe to delete a friend.
 
 
 ## May
