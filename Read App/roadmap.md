@@ -131,9 +131,13 @@ Huge updates to lounges and group plans:
 
 ## PO feedback 05/05/20
 
+ ReadApp User Stories - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/050520-a-ReadApp%20User%20Journey.pptx
+ 
  Lounge Plan Connectivity - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Lounge-User-Stories.md
  
  Wireframes - https://projects.invisionapp.com/share/KAUTE8DY9U2#/screens/395179676
+ 
+ Lounge User Stories - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Lounge-User-Stories.md
  
 1. I have put my comments for the lounge and plans. we have a meeting at 5 to go through the feedback I sent on Sunday and explain with more clarity items in my notes.
 
