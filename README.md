@@ -8,7 +8,12 @@
 
 4. Database Structure - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/DB%20Structure.md 
 
-5. Designs - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Design.md 
+5. Designs 
+- https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Design.md  
+
+Wireframe 
+
+- https://projects.invisionapp.com/share/KAUTE8DY9U2#/screens/394866266
 
 6. Development Platform - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Dev%20Platform.md 
 
