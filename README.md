@@ -1,40 +1,41 @@
 # ReadApp Project Documentation
 
-1. Acceptance Criteria - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Acceptance%20Criteria.md
+1. ReadApp User Journey - 
 
-2. Cloud Systems - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/CloudSystems.md 
+2. Acceptance Criteria - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Acceptance%20Criteria.md 
 
-3. Content Management - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/ContentManagement.md 
+3. Designs 
 
-4. Database Structure - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/DB%20Structure.md 
+Wireframe - https://projects.invisionapp.com/share/KAUTE8DY9U2#/screens/394866266
 
-5. Designs 
-- https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Design.md  
+Documentation - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Design.md  
 
-Wireframe 
+4. Road Map - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/roadmap.md 
 
-- https://projects.invisionapp.com/share/KAUTE8DY9U2#/screens/394866266
+5. Lounge User Stories - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Lounge-User-Stories.md 
 
-6. Development Platform - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Dev%20Platform.md 
+6. Cloud Systems - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/CloudSystems.md 
 
-7. Knowledge Base - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Knowledge%20Base.md 
+7. Content Management - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/ContentManagement.md 
 
-8. Lounge User Stories - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Lounge-User-Stories.md 
+8. Database Structure - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/DB%20Structure.md 
 
-9. Risk Register - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Risk%20Register.md 
+9. Development Platform - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Dev%20Platform.md 
 
-10. Security - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Security.md 
+10. Knowledge Base - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Knowledge%20Base.md 
 
-11. Tech Stack - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Tech%20Stack.md
+11. Risk Register - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Risk%20Register.md 
 
-12. Testing - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Testing.md 
+12. Security - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Security.md 
 
-13. Timeling - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Timeline.csv 
+13. Tech Stack - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Tech%20Stack.md
 
-14. Backlog - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Timeline.csv 
+14. Testing - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Testing.md 
 
-15. Linked Account - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/linked-account.jpg
+15. Timeling - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Timeline.csv 
 
-16. Road Map - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/roadmap.md 
+16. Backlog - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Timeline.csv 
 
-17. News API - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/newsapi.md
+17. Linked Account - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/linked-account.jpg
+
+18. News API - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/newsapi.md
