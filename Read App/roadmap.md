@@ -140,7 +140,7 @@ Huge updates to lounges and group plans:
 
 4. We will discuss it in more detail later. It may be a slightly longer meeting as once we have finished with the feedback I would like us to brainstorm on how we incorporate the blogs/news feature and adapt to what we have.
 
-5. User Story
+5. Lounge Plan Connectivity - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Lounge-User-Stories.md
 
 ## May
 
