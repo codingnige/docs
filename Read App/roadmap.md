@@ -128,6 +128,20 @@ Huge updates to lounges and group plans:
 11. All books / content read within the lounge should be feeding  into the library/dashboard total redaing time etc 
 
 
+
+## PO feedback 05/05/20
+
+
+1. I have put my comments for the lounge and plans. we have a meeting at 5 to go through the feedback I sent on Sunday and explain with more clarity items in my notes.
+
+2. I simply could not take screenshots as there were a few things but most importantly using the wireframes / style from stano will answer most.
+
+3. The plan and lounge are connected and we need to ensure a smooth transition between the two. the key thing that connects both is the ability to pick a resource ie a book / blog etc and then create a group plan. at the moment these plans are manually created but we must use the wireframes to follow how a user can create these plans from the lounge library and add friends etc.
+
+4. We will discuss it in more detail later. It may be a slightly longer meeting as once we have finished with the feedback I would like us to brainstorm on how we incorporate the blogs/news feature and adapt to what we have.
+
+5. User Story
+
 ## May
 
 1. The first week of May we are going to spend on Stripe integration and intensive bug fixing.  The lounges are interconnected with group plans, and  group plans was moved in the timeline because of them. This had an impact on other milestones. By four days.
