@@ -4,6 +4,10 @@
 
 2. Documentation - https://gnews.io/docs/v3#introduction
 
-3. Request Token - 
+3. Pricing - https://gnews.io/#pricing
 
-4. Temporary api Key - 
+4. Request Token - 
+
+5. Temporary api Key - 
+
+
