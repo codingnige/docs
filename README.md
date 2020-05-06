@@ -39,3 +39,7 @@ Documentation - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Des
 17. Linked Account - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/linked-account.jpg
 
 18. News API - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/newsapi.md
+
+19. Lounge Phase A - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/loungePhaseA.md 
+
+20. Lounge Phase B - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/loungePhaseB.md
