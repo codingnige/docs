@@ -25,6 +25,6 @@ screenshot)
 
 2. The Fee is:
 
-$1,000
+
 
 ``` 
