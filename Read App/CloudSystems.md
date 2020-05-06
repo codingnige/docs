@@ -15,6 +15,8 @@ Droplets are Linux-based virtual machines (VMs) that run on top of virtualised h
 - Data Centres - [https://www.digitalocean.com/docs/platform/availability-matrix/](https://www.digitalocean.com/docs/platform/availability-matrix/)
 - Load Balancers - [https://www.digitalocean.com/docs/networking/load-balancers/#plans-and-pricing](https://www.digitalocean.com/docs/networking/load-balancers/#plans-and-pricing)
 
+- HASURA : Hasura is hosted as a Docker container in the Kubernetes cluster. Load Ballancer id (see - https://github.com/ReadAppLounge/ReadAppLoungeMobile/blob/master/deployment/dev/frontend/service.yaml)is required just once while setting up Kubernetes's service. I don't think we need it in the env var.
+
 Te ReadApp cloud infrastructure is architected to sustain for high availability using the following practices. Currently operating on Digital Ocean, it will be scaled to AWS where it will be able to use programmable hub to adjust peaks and  increased resource responses:
 
 1. Automatically adjust to points of failure by monitoring network and CPU usage and adding redundant resources and connectivity
