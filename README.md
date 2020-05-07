@@ -1,6 +1,6 @@
 # ReadApp Project Documentation
 
-1. ReadApp User Journey - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/060520-a-ReadApp%20User%20Journey.pptx
+1. ReadApp User Journey - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/070520-a-ReadApp%20User%20Journey.pdf
 
 2. Acceptance Criteria - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Acceptance%20Criteria.md 
 
