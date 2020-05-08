@@ -45,3 +45,5 @@ Documentation - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Des
 20. Lounge Phase B - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/loungePhaseB.md
 
 21, Bugs and issues - https://github.com/ReadAppLounge/docs/issues
+
+22. Content Hiearchy listing - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/content-hierarchy-list.md
