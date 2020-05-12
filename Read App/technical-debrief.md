@@ -276,7 +276,7 @@ to come
 ```
 
 
-## Continuous Integration
+25. Continuous Integration
 
 ```
 
@@ -284,14 +284,14 @@ to come
 
 ```
 
-## SEO, Performance & Tools 
+26. SEO, Performance & Tools 
 
 ```
 to come
 
 ```
 
-## Deployment
+27.  Deployment
 
 ```
 Credentials
