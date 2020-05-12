@@ -1,5 +1,13 @@
 # Technical de-brief
 
+```
+Summary:  
+
+1. Handshaking between ReadApp,  HASURA and Postgres
+
+2. Enabling Lounge Flag in DB - when LOUNGE is created
+
+```
 
 ## Back end
 
