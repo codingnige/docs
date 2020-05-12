@@ -9,3 +9,4 @@ Lounge name
     …
 ```
     
+Content Listing for Production -  https://github.com/ReadAppLounge/docs/blob/master/Read%20App/DBContentHolder.xlsx 
