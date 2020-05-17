@@ -51,3 +51,5 @@ Documentation - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Des
 23. Lounges Business Document - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/loungesBusinessDocument%20.xlsx
 
 24. White Board - https://awwapp.com/#
+
+25. Content Holder - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/DBContentHolder.xlsx
