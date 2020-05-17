@@ -48,7 +48,7 @@ Documentation - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Des
 
 22. Content Hiearchy listing - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/content-hierarchy-list.md
 
-23. Lounges Business Document - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/loungesBusinessDocument%20.xlsx
+23. Idea Bank - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/loungesBusinessDocument%20.xlsx
 
 24. White Board - https://awwapp.com/#
 
