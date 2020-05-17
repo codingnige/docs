@@ -3,6 +3,8 @@
 
 ## Content Listing 
 
+https://github.com/ReadAppLounge/docs/blob/master/Read%20App/DBContentHolder.xlsx
+
 https://github.com/ReadAppLounge/docs/blob/master/Read%20App/loungesBusinessDocument%20.xlsx
 
 ## Converted EPUB files
@@ -45,6 +47,12 @@ https://github.com/ReadAppLounge/docs/blob/master/Read%20App/loungesBusinessDocu
 ### Open and Edit an EPUB File
 
 - [http://www.editepub.com/edit-epub-files/](http://www.editepub.com/edit-epub-files/)
+
+
+## Idea Bank
+
+https://github.com/ReadAppLounge/docs/blob/master/Read%20App/loungesBusinessDocument%20.xlsx
+
 
 ### Archive Content
 
