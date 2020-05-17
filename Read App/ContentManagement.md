@@ -3,8 +3,11 @@
 
 ## Content Listing 
 
+hiearchy - 
 https://github.com/ReadAppLounge/docs/blob/master/Read%20App/DBContentHolder.xlsx
 
+
+Idea Bank - 
 https://github.com/ReadAppLounge/docs/blob/master/Read%20App/loungesBusinessDocument%20.xlsx
 
 ## Converted EPUB files
