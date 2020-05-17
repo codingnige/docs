@@ -53,3 +53,5 @@ Documentation - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Des
 24. White Board - https://awwapp.com/#
 
 25. Content Holder - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/DBContentHolder.xlsx
+
+26. App Review 17/05/20 - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/App%20review%20-%20%2017:05:20.xlsx
