@@ -8,7 +8,7 @@ GraphQL - [https://graphql.org/](https://graphql.org/) | [https://graphql.org/co
 
 Apollo GraphQL - https://www.apollographql.com/docs/
 
-Hasura -  [https://hasura.io/docs/1.0/graphql/manual/index.html](https://hasura.io/docs/1.0/graphql/manual/index.html)
+Hasura -  [https://hasura.io/docs/1.0/graphql/manual/index.html](https://hasura.io/docs/1.0/graphql/manual/index.html) | https://www.youtube.com/watch?v=6BffPT96HPg
 
 NextJS - [https://nextjs.org/docs/getting-started](https://nextjs.org/docs/getting-started)
 
