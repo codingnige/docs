@@ -32,7 +32,7 @@ Documentation - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Des
 
 14. Testing - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Testing.md 
 
-15. Timeling - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Timeline.csv 
+15. Timeline - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Timeline.csv 
 
 16. Backlog - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Timeline.csv 
 
