@@ -58,4 +58,13 @@ Bugs - https://github.com/ReadAppLounge/docs/tree/master/ReadApp-Bugs
 
 25. Content Holder - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/DBContentHolder.xlsx
 
-26. App Review 17/05/20 - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/App%20review%20-%20%2017:05:20.xlsx
+26. App Review 17/05/20 - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/App%20review%20-%20%2017:05:20.xlsx 
+
+27. Create iOS Developer Account and Apple Account:
+
+
+
+i. Setting up Developer Account (ID):    https://www.youtube.com/watch?v=OtErU9Um3DE  
+
+
+ii. Setting up Apple Account : Keychain and  certificate - https://www.youtube.com/watch?v=OwXIJchrDdA  
