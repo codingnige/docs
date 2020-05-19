@@ -63,8 +63,9 @@ Bugs - https://github.com/ReadAppLounge/docs/tree/master/ReadApp-Bugs
 27. Create iOS Developer Account and Apple Account:
 
 
+i. Test Flight - https://developer.apple.com/testflight/
 
-i. Setting up Developer Account (ID):    https://www.youtube.com/watch?v=OtErU9Um3DE  
+ii. Setting up Developer Account (ID):    https://www.youtube.com/watch?v=OtErU9Um3DE  
 
 
-ii. Setting up Apple Account : Keychain and  certificate - https://www.youtube.com/watch?v=OwXIJchrDdA  
+iii. Setting up Apple Account : Keychain and  certificate - https://www.youtube.com/watch?v=OwXIJchrDdA  
