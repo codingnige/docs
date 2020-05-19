@@ -15,6 +15,14 @@
 
 * The Good Samaritan - https://github.com/ReadAppLounge/pre-flight/blob/master/ReadApp-content/comics/EPUB/comics/2/The%20good%20samaritan/thegoodsamaritan.epub
 
+## Recipes 
+
+- https://github.com/ReadAppLounge/pre-flight/tree/master/ReadApp-content/Recipes%20V1
+
+## Faith
+
+- https://github.com/ReadAppLounge/pre-flight/tree/master/ReadApp-content/faith
+
 
 ## Software
 
