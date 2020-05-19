@@ -57,12 +57,6 @@ https://github.com/ReadAppLounge/docs/blob/master/Read%20App/loungesBusinessDocu
 https://github.com/ReadAppLounge/docs/blob/master/Read%20App/loungesBusinessDocument%20.xlsx
 
 
-### Archive Content
 
-1. Recipes - https://github.com/ReadAppLounge/pre-flight/tree/master/Recipes%20V1 
-
-2. Comics - https://github.com/ReadAppLounge/pre-flight/tree/master/comics 
-
-3. Faith - https://github.com/ReadAppLounge/pre-flight/tree/master/faith
 
 
