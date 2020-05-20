@@ -48,5 +48,7 @@ This is the website where you submit and manage your app in the App Store. In Ap
 
 - Financial reports
 
+- Banking information on payment
+
 ### xCode
 
