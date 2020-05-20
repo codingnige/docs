@@ -40,6 +40,13 @@ Each App has to be tied back to:
 
 ### App Store Connect
 
+This is the website where you submit and manage your app in the App Store. In App Sore conect, you can manage your listings where you can:
+
+- Check on Analytics
+
+- Sales
+
+- Financial reports
 
 ### xCode
 
