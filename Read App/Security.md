@@ -79,6 +79,11 @@ ReadApp will be engineered to deal with the following Cyber attacks:
 - **DNS Tunneling** - Configure ReadApp's firewall securely to detect and block DNS tunneling using protocol objects.
 - The ReadApp will have to comply to "Architecting for High Availability" to guarantee improved Scaling, Resilience, Spikes and also limit resources when not needed: Mitigate and restore automatically points of failure, Provide Multiple Availability Zones (MAZ - Apps availability must be engineered to support geographical disasters to servers), Self Healing (Cloud Watch policies for CPU and network usage), and Loose Coupling. Can we confirm if Digital Ocean provides all these features.
 
+
+## Permissions & Security Framework
+
+- https://github.com/ReadAppLounge/docs/blob/master/Read%20App/permissions-security-framework.md
+
 ## Enablers
 
 - TypeScript
