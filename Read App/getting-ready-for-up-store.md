@@ -24,7 +24,6 @@ i. Provisioning Profile
 
 ii. App Store Connect
 
-
 iii. xCode
 
 ```
