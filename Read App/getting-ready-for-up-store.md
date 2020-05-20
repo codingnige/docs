@@ -19,11 +19,26 @@ iii. Setting up Apple Account : Keychain and  certificate - https://www.youtube.
 This is a three stage process:
 
 
-```
+
 i. Provisioning Profile
+
+```
+a. Identity
+
+b. Permissions
+
+```
+
+Each App has to be tied back to:
+
+- A known Developer
+
+- Installed on a known device
+
+- Have right permissions for sytems and services
+
 
 ii. App Store Connect
 
 iii. xCode
 
-```
