@@ -73,3 +73,5 @@ ii. Setting up Developer Account (ID):    https://www.youtube.com/watch?v=OtErU9
 
 
 iii. Setting up Apple Account : Keychain and  certificate - https://www.youtube.com/watch?v=OwXIJchrDdA  
+
+28. Permissions and Security Framework - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/permissions-security-framework.md
