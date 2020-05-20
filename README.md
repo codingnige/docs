@@ -63,3 +63,5 @@ Bugs - https://github.com/ReadAppLounge/docs/tree/master/ReadApp-Bugs
 27. Permissions and Security Framework - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/permissions-security-framework.md 
 
 28. ad-hoc parsing images in NEWS feed - https://github.com/ReadAppLounge/pre-flight/blob/master/newsAPI/alternative-news/optimising-feed-images.md
+
+29. Provisioning for App Store - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/getting-ready-for-up-store.md
