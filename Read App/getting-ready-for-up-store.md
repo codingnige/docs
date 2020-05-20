@@ -12,3 +12,6 @@ ii. Setting up Developer Account (ID):    https://www.youtube.com/watch?v=OtErU9
 
 
 iii. Setting up Apple Account : Keychain and  certificate - https://www.youtube.com/watch?v=OwXIJchrDdA  
+
+
+## Submitting to App Store
