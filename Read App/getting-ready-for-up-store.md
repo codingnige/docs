@@ -20,7 +20,7 @@ This is a three stage process:
 
 
 
-i. Provisioning Profile
+### Provisioning Profile
 
 ```
 a. Identity
@@ -38,7 +38,8 @@ Each App has to be tied back to:
 - Have right permissions for sytems and services
 
 
-ii. App Store Connect
+### App Store Connect
 
-iii. xCode
+
+### xCode
 
