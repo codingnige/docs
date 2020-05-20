@@ -60,20 +60,6 @@ Bugs - https://github.com/ReadAppLounge/docs/tree/master/ReadApp-Bugs
 
 26. App Review 17/05/20 - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/App%20review%20-%20%2017:05:20.xlsx 
 
-27. Create iOS Developer Account and Apple Account:
+27. Permissions and Security Framework - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/permissions-security-framework.md 
 
-
-i. Test Flight:
-  
-  a. docs -  https://developer.apple.com/testflight/ 
-  
-  b. download - https://apps.apple.com/us/app/testflight/id899247664
-
-ii. Setting up Developer Account (ID):    https://www.youtube.com/watch?v=OtErU9Um3DE  
-
-
-iii. Setting up Apple Account : Keychain and  certificate - https://www.youtube.com/watch?v=OwXIJchrDdA  
-
-28. Permissions and Security Framework - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/permissions-security-framework.md 
-
-29. ad-hoc parsing images in NEWS feed - https://github.com/ReadAppLounge/pre-flight/blob/master/newsAPI/alternative-news/optimising-feed-images.md
+28. ad-hoc parsing images in NEWS feed - https://github.com/ReadAppLounge/pre-flight/blob/master/newsAPI/alternative-news/optimising-feed-images.md
