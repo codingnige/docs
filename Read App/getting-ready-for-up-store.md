@@ -15,3 +15,16 @@ iii. Setting up Apple Account : Keychain and  certificate - https://www.youtube.
 
 
 ## Submitting to App Store
+
+This is a three stage process:
+
+
+```
+i. Provisioning Profile
+
+ii. App Store Connect
+
+
+iii. xCode
+
+```
