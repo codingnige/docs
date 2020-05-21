@@ -100,6 +100,8 @@ This is the website where you submit and manage your app in the App Store. In Ap
 
 Ones you finish building and testing your app in xCode, you create an archive of the app. This is a bundle or package that contains your code and other dependency resources you submit to the App Connect Website.
 
-### 
+### Apple Developer Programme ($99)
+
+Gives access to the App Store Connect Website.
 
 
