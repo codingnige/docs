@@ -26,7 +26,29 @@ developers (as per the policy you quote). Significantly, that specific name is n
 available to the developer that first used it, so be certain you're going to submit 
 soon after creating the app in ITC.
 
+=> xCode
+
+=> AppStore Connect. Create a listing for:
+i. Title
+
+ii. Description
+
+iii. Screen shots
+
+=> Back to xCode
+
+i. Create archive of the App
+
+=> Submit to App Store Comnnect
+
+i. Reveal the archive to the listing information
+
+=> Submit to App Certification Team. Checks on guidelines, best practices, tresholds, no restricted content
+
+=> Greeen light - If guideline are met, app  released in 24 hours or ASAP.
+
 ```
+
 
 
 ## Create iOS Developer Account and Apple Account:
