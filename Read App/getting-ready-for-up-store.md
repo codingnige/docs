@@ -1,5 +1,10 @@
 # Getting ready for App Store
 
+
+You can't have multiple apps with the same app id. Google Play Store allows multiple apps to have same app name as long as they have a different app id. 
+
+iOS requires both app id and app name (but not display name) to be unique from other apps in the store.
+
 ##  Test Flight:
   
   a. docs -  https://developer.apple.com/testflight/ 
