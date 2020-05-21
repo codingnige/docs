@@ -28,8 +28,6 @@ soon after creating the app in ITC.
 
 ```
 
-App Store Connect - https://developer.apple.com/support/app-store-connect/#//apple_ref/doc/uid/TP40011225-CH13-SW20
-
 
 ## Create iOS Developer Account and Apple Account:
 ii. Setting up Developer Account (ID):    https://www.youtube.com/watch?v=OtErU9Um3DE  
@@ -63,6 +61,8 @@ Each App has to be tied back to:
 
 
 ### App Store Connect
+
+ - https://developer.apple.com/support/app-store-connect/#//apple_ref/doc/uid/TP40011225-CH13-SW20
 
 This is the website where you submit and manage your app in the App Store. In App Sore conect, you can manage your listings where you can:
 
