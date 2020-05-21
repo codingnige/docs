@@ -5,7 +5,7 @@ You can't have multiple apps with the same app id. Google Play Store allows mult
 
 iOS requires both app id and app name (but not display name) to be unique from other apps in the store.
 
-If a desired name isn't available, this can be solved  by adding a bit of description to the name, making it unique, e.g. "ReadApp  - Social Engagement and Hospitality" when "ReadApp" isn't available.
+If a desired name isn't available, this can be solved  by adding a bit of description to the name, making it unique, e.g. "ReadApp  - Social Engagement and Hospitality", "ReadApp  - Lounge" when "ReadApp" isn't available.
 
 ##  Test Flight:
   
