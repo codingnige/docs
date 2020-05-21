@@ -1,5 +1,12 @@
 # Getting ready for App Store
 
+##  Test Flight:
+  
+  a. docs -  https://developer.apple.com/testflight/ 
+  
+  b. download - https://apps.apple.com/us/app/testflight/id899247664
+
+## Protocol
 
 You can't have multiple apps with the same app id. Google Play Store allows multiple apps to have same app name as long as they have a different app id. 
 
@@ -7,11 +14,21 @@ iOS requires both app id and app name (but not display name) to be unique from o
 
 If a desired name isn't available, this can be solved  by adding a bit of description to the name, making it unique, e.g. "ReadApp  - Social Engagement and Hospitality", "ReadApp  - Lounge" when "ReadApp" isn't available.
 
-##  Test Flight:
-  
-  a. docs -  https://developer.apple.com/testflight/ 
-  
-  b. download - https://apps.apple.com/us/app/testflight/id899247664
+
+```
+
+Until recently there was a significant name-squatting problem, with devs creating 
+placeholder apps that tied up names indefinitely. Apple cleared all of those out last Fall,
+making a large number of names available again. Now an app created in iTunes Connect 
+but not submitted for review will receive a warning after 150 days and if there's still no
+submission 30 days later, the placeholder is deleted and the name is freed up to other 
+developers (as per the policy you quote). Significantly, that specific name is no longer 
+available to the developer that first used it, so be certain you're going to submit 
+soon after creating the app in ITC.
+
+```
+
+App Store Connect - https://developer.apple.com/support/app-store-connect/#//apple_ref/doc/uid/TP40011225-CH13-SW20
 
 
 ## Create iOS Developer Account and Apple Account:
@@ -60,4 +77,7 @@ This is the website where you submit and manage your app in the App Store. In Ap
 ### xCode
 
 Ones you finish building and testing your app in xCode, you create an archive of the app. This is a bundle or package that contains your code and other dependency resources you submit to the App Connect Website.
+
+### 
+
 
