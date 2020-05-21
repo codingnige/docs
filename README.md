@@ -44,11 +44,13 @@ Documentation - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/Des
 
 20. Lounge Phase B - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/loungePhaseB.md
 
-21, Bugs and issues:
+21. Bugs, Issues & Feedback:
 
 Issues - https://github.com/ReadAppLounge/docs/issues
 
-Bugs - https://github.com/ReadAppLounge/docs/tree/master/ReadApp-Bugs
+Bugs - https://github.com/ReadAppLounge/docs/tree/master/ReadApp-Bugs 
+
+App Review 17/05/20 - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/App%20review%20-%20%2017:05:20.xlsx 
 
 22. Content Hiearchy listing - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/content-hierarchy-list.md
 
@@ -58,10 +60,8 @@ Bugs - https://github.com/ReadAppLounge/docs/tree/master/ReadApp-Bugs
 
 25. Content Holder - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/DBContentHolder.xlsx
 
-26. App Review 17/05/20 - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/App%20review%20-%20%2017:05:20.xlsx 
+26. Permissions and Security Framework - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/permissions-security-framework.md 
 
-27. Permissions and Security Framework - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/permissions-security-framework.md 
+27. Technical Solution Document - 1 - https://github.com/ReadAppLounge/pre-flight/blob/master/newsAPI/alternative-news/optimising-feed-images.md
 
-28. Technical Solution Document - 1 - https://github.com/ReadAppLounge/pre-flight/blob/master/newsAPI/alternative-news/optimising-feed-images.md
-
-29. Provisioning for App Store - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/getting-ready-for-up-store.md
+28. Provisioning for App Store - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/getting-ready-for-up-store.md
