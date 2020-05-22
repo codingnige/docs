@@ -102,9 +102,7 @@ Ones you finish building and testing your app in xCode, you create an archive of
 
 ### Apple Developer Programme 
 
-- ($99)
-
-Gives access to the App Store Connect Website.
+Connecting to  the App Store Connect Website -  $99.
 
 | Team  | Bundle Identifier  | Provisioning Profile | Signing Certificate |
 | :---:   | :-: | :-: | :-: |
