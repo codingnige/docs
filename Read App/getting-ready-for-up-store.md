@@ -104,4 +104,8 @@ Ones you finish building and testing your app in xCode, you create an archive of
 
 Gives access to the App Store Connect Website.
 
+| Team  | Bundle Identifier  | Provisioning Profile | Signing Certificate |
+| :---:   | :-: | :-: | :-: |
+| Busola Sodeinde | ??? | Xcode Managed Profile | Signing Certificate |
+
 
