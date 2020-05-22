@@ -18,13 +18,17 @@ If a desired name isn't available, this can be solved  by adding a bit of descri
 ```
 
 Until recently there was a significant name-squatting problem, with devs creating 
-placeholder apps that tied up names indefinitely. Apple cleared all of those out last Fall,
-making a large number of names available again. Now an app created in iTunes Connect 
-but not submitted for review will receive a warning after 150 days and if there's still no
-submission 30 days later, the placeholder is deleted and the name is freed up to other 
-developers (as per the policy you quote). Significantly, that specific name is no longer 
-available to the developer that first used it, so be certain you're going to submit 
-soon after creating the app in ITC.
+placeholder apps that tied up names indefinitely. Apple has  cleared all this mess,
+making a large number of names available again. 
+
+Now an app created in iTunes Connect but not submitted for review will receive a warning
+after 150 days and if there's still no submission 30 days later, 
+the placeholder is deleted and the name is freed up to other developers 
+(as per the policy you quote). Significantly, that specific name is no longer 
+available to the developer that first used it.
+
+So be certain you're going to submit soon after creating the app in ITC.
+
 
 => xCode
 
@@ -102,10 +106,23 @@ Ones you finish building and testing your app in xCode, you create an archive of
 
 ### Apple Developer Programme 
 
+1. Sign up to ADP
 Connecting to  the App Store Connect Website -  $99.
 
 | Team  | Bundle Identifier  | Provisioning Profile | Signing Certificate |
 | :---:   | :-: | :-: | :-: |
 | Busola Sodeinde | ??? | Xcode Managed Profile | iPhone Developer : Busola Sodeinde |
+
+
+2. In Xcode, preference menu confirm Apple ID:
+
+
+| Apple ID  | Description  | Team | Role |
+| :---:   | :-: | :-: | :-: |
+| ????| ??? | Busola Sodeinde  | agent |
+
+
+
+| Dashboaard Manual Profiles  | Manage Certificates  | 
 
 
