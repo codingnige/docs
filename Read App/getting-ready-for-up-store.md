@@ -128,4 +128,16 @@ Connecting to  the App Store Connect Website -  $99.
 
 - Manage Certificates  
 
+3. In Xcode
 
+Project => Signing & Capabiiities: copy to memory value of 'Bundle Identifier'
+
+4. Back to ADP(Be registered - $99) => Certificate/Identifier/Profiles
+
+5. In Dentifier:
+
+i. click + (add)
+
+ii. Register a new Identifier
+
+iii. Add (paste from Signing & Capabiiities ) value of 'Bundle ID'
