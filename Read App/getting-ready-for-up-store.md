@@ -124,7 +124,8 @@ Connecting to  the App Store Connect Website -  $99.
 | ????| ??? | Busola Sodeinde  | agent |
 
 
+- Dashboaard Manual Profiles
 
-| Dashboaard Manual Profiles  | Manage Certificates  | 
+- Manage Certificates  
 
 
