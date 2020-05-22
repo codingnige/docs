@@ -31,28 +31,29 @@ So be certain you're going to submit soon after creating the app in ITC.
 
 ```
 
-=> xCode
+### Process
 
-=> AppStore Connect. Create a listing for:
+1. xCode (Code)
+
+2. AppStore Connect. Create a listing for:
+
 i. Title
 
 ii. Description
 
 iii. Screen shots
 
-=> Back to xCode
+3. Back to xCode
 
 i. Create archive of the App
 
-=> Submit to App Store Comnnect
+4. Submit to App Store Comnnect
 
 i. Reveal the archive to the listing information
 
-=> Submit to App Certification Team. Checks on guidelines, best practices, tresholds, no restricted content
+ii. Submit to App Certification Team. Checks on guidelines, best practices, tresholds, no restricted content
 
-=> Greeen light - If guideline are met, app  released in 24 hours or ASAP.
-
-```
+5. Response: (Greeen light) - If guideline are met, app  released in 24 hours or ASAP.
 
 
 
