@@ -134,7 +134,7 @@ Project => Signing & Capabiiities: copy to memory value of 'Bundle Identifier'
 
 4. Back to ADP(Be registered - $99) => Certificate/Identifier/Profiles
 
-5. In Dentifier:
+5. In Identifier:
 
 i. click + (add)
 
