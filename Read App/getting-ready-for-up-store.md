@@ -141,3 +141,17 @@ i. click + (add)
 ii. Register a new Identifier
 
 iii. Add (paste from Signing & Capabiiities ) value of 'Bundle ID' - Choose explicit.
+
+iv. Choose Platform, Description, Enable any associated capabilities. Confirm and register. Check is registered and move to App Store Connect Website, and refresh.
+
+v. After refresh, click My Apps. Click on + followed by New App to add details of App. Rfresh main content if in drop down of overlay, you cant find the new App's name/description field.
+
+vi. Complete the details for the app. The SKU is any string you construct at this stage. Put thought to it and make sure is unique, if more apps will follow. No spaces in the sku: my-comic-app
+
+vi. Privacy policy - Adjust and customise a templated version, and upload to a server or company website. Get link and insert in app information.
+
+vi. Go through  other Tabs. Including Test Flight
+
+vi. Test Flight - For BETA Testing
+
+vii. Activity - This is where builds are organised from when it is archived.
