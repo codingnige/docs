@@ -140,4 +140,4 @@ i. click + (add)
 
 ii. Register a new Identifier
 
-iii. Add (paste from Signing & Capabiiities ) value of 'Bundle ID'
+iii. Add (paste from Signing & Capabiiities ) value of 'Bundle ID' - Choose explicit.
