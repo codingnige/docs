@@ -65,3 +65,5 @@ App Review 17/05/20 - https://github.com/ReadAppLounge/docs/blob/master/Read%20A
 27. Technical Solution Document - 1 - https://github.com/ReadAppLounge/pre-flight/blob/master/newsAPI/alternative-news/optimising-feed-images.md
 
 28. Provisioning for App Store - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/getting-ready-for-up-store.md
+
+29. GDPRK - https://github.com/ReadAppLounge/pre-flight/blob/master/newsAPI/alternative-news/optimising-feed-images.md
