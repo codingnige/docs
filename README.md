@@ -67,3 +67,5 @@ App Review 17/05/20 - https://github.com/ReadAppLounge/docs/blob/master/Read%20A
 28. Provisioning for App Store - https://github.com/ReadAppLounge/docs/blob/master/Read%20App/getting-ready-for-up-store.md
 
 29. GDPRK - https://github.com/ReadAppLounge/pre-flight/blob/master/newsAPI/alternative-news/optimising-feed-images.md
+
+30.DaVinci Apps – Create App Store screenshots  https://davinciapps.com/account/#/ (https://www.youtube.com/watch?v=x0NmVDUhBk0&feature=youtu.be)
