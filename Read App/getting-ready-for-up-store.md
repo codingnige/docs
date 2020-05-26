@@ -6,6 +6,11 @@
   
   b. download - https://apps.apple.com/us/app/testflight/id899247664
 
+
+## Provisional Name to use before 31st of August
+
+ReadApp Lounge
+
 ## Protocol
 
 You can't have multiple apps with the same app id. Google Play Store allows multiple apps to have same app name as long as they have a different app id. 
