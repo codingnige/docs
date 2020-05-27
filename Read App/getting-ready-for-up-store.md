@@ -113,8 +113,23 @@ Ones you finish building and testing your app in xCode, you create an archive of
 
 ### Apple Developer Programme 
 
-1. Sign up to ADP
+Sign up to ADP
+
 Connecting to  the App Store Connect Website -  $99.
+
+1. 
+https://idmsa.apple.com/IDMSWebAuth/signin.html?path=%2Fcontact%2F&appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757
+
+2. ACCOUNT
+https://developer.apple.com/account/#/welcome 
+
+3. Join Apple Developer Program
+https://developer.apple.com/programs/  
+
+4. Enrol
+https://developer.apple.com/programs/enroll/
+
+
 
 | Team  | Bundle Identifier  | Provisioning Profile | Signing Certificate |
 | :---:   | :-: | :-: | :-: |
