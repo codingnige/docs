@@ -127,9 +127,11 @@ https://developer.apple.com/account/#/welcome
 https://developer.apple.com/programs/  
 
 4. Enrol
-https://developer.apple.com/programs/enroll/
+https://developer.apple.com/programs/enroll/ 
 
+5. Programs - https://developer.apple.com/programs/
 
+6. Test Flight - https://developer.apple.com/testflight/
 
 | Team  | Bundle Identifier  | Provisioning Profile | Signing Certificate |
 | :---:   | :-: | :-: | :-: |
