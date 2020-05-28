@@ -11,6 +11,25 @@
 
 ReadApp Lounge
 
+## ADP Requirement 
+
+Support:  eurodev@apple.com  
+
+Contact:  Cillian
+
+D-U-N-S Numbers : https://developer.apple.com/support/D-U-N-S/
+
+```
+Legal entity name: Bearings Point Media
+
+Headquarters address: ****
+
+Mailing address: ****
+
+Your work contact information: 
+
+```
+
 ## Protocol
 
 You can't have multiple apps with the same app id. Google Play Store allows multiple apps to have same app name as long as they have a different app id. 
