@@ -20,11 +20,11 @@ The ReadApp will additionally use Magic Links for authentication.  This will be 
 
 ## Encryption 
 
-- **Child Safety **
+
 
 ### Parental Verification (PV) - backlog
 
-**Compliance with GDPR-K and COPPA **
+**Compliance with GDPR-K and COPPA (Child Safety) **
 
 - Meta Compliance - [https://www.infosecurityeurope.com/__novadocuments/355669?v=636289786574700000](https://www.infosecurityeurope.com/__novadocuments/355669?v=636289786574700000)
 - Complying with COPPA - [https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions](https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions)
@@ -33,11 +33,11 @@ The ReadApp will additionally use Magic Links for authentication.  This will be 
 
 **Architecture/Design**
 
-** step 1 - Your date of birth**
+** step 1 - Your date of birth **
 
 ![Security/pv-your-dob.png](Security/pv-your-dob.png)
 
-### step 2 - Parental guardian's email
+** step 2 - Parental guardian's email **
 
 ![Security/pv-7b.png](Security/pv-7b.png)
 
