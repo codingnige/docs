@@ -1,5 +1,7 @@
 # Security
 
+
+
 ReadApp implements three types of security controls: Preventive, Detective and Responsive. The application's security encompasses authentication, data protection, finding, fixing and preventing security vulnerabilities. 
 
 Not only does ReadApp security architecture cover costs of protection, but also the awareness of the potential damage to those whose data we hold, and the penalties to which breaches of security would expose them.
@@ -7,17 +9,22 @@ Not only does ReadApp security architecture cover costs of protection, but also 
 - In line with GDPRK, GDPR-K(sub-section for children)/COPPA and in addressing Cybersecurity and data protection, we should be implementing a Parental Verification (PV) security model. This will be an option where parents will approve to their children engagement with the app. Parents will have to ensure they provide their email addresses, Credit Card to the ReadApp as verification where their children will be involved. This will complete the registration and acceptance of any child to use the app where applicable.
 - The ReadApp will have to provision for multiple (Linked) log in accounts for example for supporting the PV. A parent can be an administrator, and at the same time have an account to be used for PV where they have children (see attached).
 
-### Authentication  & Encryption patterns:
+## Authentication :
+
+[to come ]
 
 - **Magic Links (Passwordless) -**  **Implemented**.
 
 The ReadApp will additionally use Magic Links for authentication.  This will be a temporary URL that expires after use, or after a specific interval of time. Magic links will be sent to a users email address. Clicking the link will authorise the user to sign in.
 
-- **Child Safety**
+
+## Encryption 
+
+- **Child Safety **
 
 ### Parental Verification (PV) - backlog
 
-**Compliance with GDPR-K and COPPA**
+**Compliance with GDPR-K and COPPA **
 
 - Meta Compliance - [https://www.infosecurityeurope.com/__novadocuments/355669?v=636289786574700000](https://www.infosecurityeurope.com/__novadocuments/355669?v=636289786574700000)
 - Complying with COPPA - [https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions](https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions)
@@ -26,7 +33,7 @@ The ReadApp will additionally use Magic Links for authentication.  This will be 
 
 **Architecture/Design**
 
-**step 1 - Your date of birth**
+** step 1 - Your date of birth**
 
 ![Security/pv-your-dob.png](Security/pv-your-dob.png)
 
