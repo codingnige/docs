@@ -11,16 +11,11 @@
 
 ReadApp Lounge
 
-## ADP Requirement 
+## Details for ADP 
 
-Support:  eurodev@apple.com  
 
-Contact:  Cillian
 
-D-U-N-S Numbers : https://developer.apple.com/support/D-U-N-S/
-
-```
-Legal entity name: Bearings Point Media
+Legal entity name: Bearings Point Media - https://beta.companieshouse.gov.uk/company/12422425
 
 Headquarters address: ****
 
@@ -28,7 +23,12 @@ Mailing address: ****
 
 Your work contact information: 
 
-```
+Support:  eurodev@apple.com  
+
+Contact:  Cillian
+
+D-U-N-S Numbers : https://developer.apple.com/support/D-U-N-S/
+
 
 ## Protocol
 
