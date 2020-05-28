@@ -80,12 +80,6 @@ ii. Submit to App Certification Team. Checks on guidelines, best practices, tres
 - Response: (Greeen light) - If guideline are met, app  released in 24 hours or ASAP.
 
 
-- https://www.youtube.com/watch?v=tnbOcpwJGa8
-
-
-- https://www.youtube.com/watch?v=YPLs3xrDcm0
-
-
 ## Create iOS Developer Account and Apple Account:
 ii. Setting up Developer Account (ID):    https://www.youtube.com/watch?v=OtErU9Um3DE  
 
