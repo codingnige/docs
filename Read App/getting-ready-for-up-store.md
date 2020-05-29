@@ -1,21 +1,10 @@
 # Getting ready for App Store
 
-##  Test Flight:
-  
-  a. docs -  https://developer.apple.com/testflight/ 
-  
-  b. download - https://apps.apple.com/us/app/testflight/id899247664
-  
- #### [Connecting to Test Flight]
+
+## Details for Apple Developer Program 
 
 
-## Provisional Name to use before 31st of August
-
-ReadApp Lounge
-
-## Details for ADP 
-
-
+Provisional Name (before 31st of August) : ReadApp Lounge
 
 Legal entity name: Bearings Point Media - https://beta.companieshouse.gov.uk/company/12422425
 
@@ -35,6 +24,13 @@ Contact:  Cillian
 
 D-U-N-S Numbers( https://developer.apple.com/support/D-U-N-S/):
 
+##  Test Flight:
+  
+  a. docs -  https://developer.apple.com/testflight/ 
+  
+  b. download - https://apps.apple.com/us/app/testflight/id899247664
+  
+ #### [Connecting to Test Flight]
 
 ## Protocol
 
