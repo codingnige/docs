@@ -6,7 +6,7 @@
   
   b. download - https://apps.apple.com/us/app/testflight/id899247664
   
- ### Connection to Test Flight
+ #### [Connecting to Test Flight]
 
 
 ## Provisional Name to use before 31st of August
