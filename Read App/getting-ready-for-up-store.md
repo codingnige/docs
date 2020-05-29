@@ -4,9 +4,9 @@
 ## Details for Apple Developer Program 
 
 
-Provisional Name (before 31st of August) : ReadApp Lounge
+Provisional Name (before 31st of August): ReadApp Lounge
 
-Legal entity name: Bearings Point Media - https://beta.companieshouse.gov.uk/company/12422425
+Legal entity name: Bearings Point Media 
 
 Apple ID: [x]
 
@@ -20,7 +20,7 @@ Your work contact information:
 
 Apple Support:  eurodev@apple.com  
 
-Contact:  Cillian
+Apple Support Contact:  Cillian
 
 D-U-N-S Numbers( https://developer.apple.com/support/D-U-N-S/):
 
