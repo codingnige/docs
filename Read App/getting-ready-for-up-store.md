@@ -19,17 +19,21 @@ ReadApp Lounge
 
 Legal entity name: Bearings Point Media - https://beta.companieshouse.gov.uk/company/12422425
 
+Apple ID: [x]
+
+Username: [x]
+
 Headquarters address: ****
 
 Mailing address: ****
 
 Your work contact information: 
 
-Support:  eurodev@apple.com  
+Apple Support:  eurodev@apple.com  
 
 Contact:  Cillian
 
-D-U-N-S Numbers : https://developer.apple.com/support/D-U-N-S/
+D-U-N-S Numbers( https://developer.apple.com/support/D-U-N-S/):
 
 
 ## Protocol
