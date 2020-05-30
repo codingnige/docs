@@ -168,7 +168,7 @@ https://developer.apple.com/programs/enroll/
 | ????| ??? | Busola Sodeinde  | agent |
 
 
-- Dashboaard Manual Profiles
+- Dashboard Manual Profiles
 
 - Manage Certificates  
 
