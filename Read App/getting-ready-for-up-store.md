@@ -73,7 +73,7 @@ iii. Screen shots
 
 i. Create archive of the App
 
-- Submit to App Store Comnnect
+- Submit to App Store Connect
 
 i. Reveal the archive to the listing information
 
