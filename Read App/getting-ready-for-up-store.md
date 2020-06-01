@@ -3,7 +3,6 @@
 
 ## Details for Apple Developer Program 
 
-
 Provisional Name (before 31st of August): ReadApp Lounge
 
 Legal entity name: Bearings Point Media 
@@ -23,6 +22,9 @@ Apple Support:  eurodev@apple.com 
 Apple Support Contact:  Cillian
 
 D-U-N-S Numbers( https://developer.apple.com/support/D-U-N-S/):
+
+Nigel Antwi-Boasiako
+Apple Support Document: https://developer.apple.com/support/app-account/ 
 
 ##  Test Flight:
   
