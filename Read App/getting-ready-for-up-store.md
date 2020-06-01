@@ -199,3 +199,5 @@ vi. Go through  other Tabs. Including Test Flight
 vi. Test Flight - For BETA Testing
 
 vii. Activity - This is where builds are organised from when it is archived.
+
+# Deploying to Google Play
